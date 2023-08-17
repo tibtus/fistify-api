@@ -1,0 +1,23 @@
+{
+  "name": "fistify-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibtus/fistify-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tibtus/fistify-api/issues"
+  },
+  "homepage": "https://github.com/tibtus/fistify-api#readme",
+  "dependencies": {
+    "fastify": "^4.21.0"
+  }
+}
